@@ -1,7 +1,7 @@
 # enron
 Fixed the Naive Bayes spam classifier from *Doing Data Science* (2014)
 
-The bash script provided in chapter 4 ("Spam Filter, Naive Bayes, and Wrangling") wasn't working for me, so I fixed it. Here it is. Original code was by Jake Hofman (@jhofman).
+The bash script provided in chapter 4 ("Spam Filter, Naive Bayes, and Wrangling") wasn't working for me, so I fixed it. Here it is. Original code was by Jake Hofman ([@jhofman](https://github.com/jhofman)).
 
 ## Attribution
 
