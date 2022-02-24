@@ -11,7 +11,7 @@
 #   wget
 #
 # author: jake hofman (gmail: jhofman)
-# modified by everet rummel
+# modified by everet
 #
 
 # how to use the code
